@@ -1,6 +1,8 @@
 # gmcv
 
-Shell script to make cute collages of your stable diffusion waifus.
+Shell script to make cute collages of your stable diffusion waifus. 
+Requires graphicsmagick.   
+`sudo apt install graphicsmagick`
 
 Optional -r -b -w for random images in directory and black or white borders.
 
